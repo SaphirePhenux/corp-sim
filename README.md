@@ -52,11 +52,10 @@ Repo+
 
 ## Current To Do List
 
-- Finish general infrastructure and network design charts.
-  This will be done using either figjam, lucidchart, or some other design software.
-		
-  - AWS Design Chart
-		- Azure Design Chart
++ Finish general infrastructure and network design charts.
+  This will be done using either figjam, lucidchart, or some other design software.		
+  - AWS Design Chart	
+  - Azure Design Chart
   - GCP Design Chart
 - Build out the initial folder structure
 - Build the initial Terraform
