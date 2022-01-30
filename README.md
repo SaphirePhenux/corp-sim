@@ -21,6 +21,7 @@ The infrastructure will be built using a mix of containers/stateless services an
 ## Folder Structure
 
 **NOTE:** The initial folder structure is currently designed around one (1) Corp scenario. Later versions will be broken out into different scenario (sub) folders.
+```
 Repo+
     |
     +-src+: contains the source code and data sets for the different programs, services, and databases.
@@ -45,7 +46,7 @@ Repo+
     |
     +-monitoring+: a collection of documents explaining the usage of the different monitoring services
 
-
+```
 
 
 
@@ -53,7 +54,8 @@ Repo+
 
 - Finish general infrastructure and network design charts.
   This will be done using either figjam, lucidchart, or some other design software.
-		- AWS Design Chart
+		
+  - AWS Design Chart
 		- Azure Design Chart
   - GCP Design Chart
 - Build out the initial folder structure
